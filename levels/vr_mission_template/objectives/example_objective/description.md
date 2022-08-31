@@ -1,21 +1,19 @@
-# Example Objective
+# Objective 1 - Create and rename a branch
 
 <div class="aside">
 <h3>To-Do List</h3>
 <ul>
-  <li>It's good to keep high level tasks here.</li>
+  <li>Answer 1st Question</li>
+  <li>Answer 2nd Question</li>
   <li>Let players know when to click <em>HACK</em>.</li>
 </ul>
 </div>
 
-Give players a little bit of information about what they need to do to hack past this objective. If you find yourself writing more than a few short paragraphs of text, it's likely your objective is too big!
 
-## You can make sub headers with more information
+Git's branching functionality allows the creation of new branches in a project. These new branches can then be used to test changes to code without affecting the main project code. If the changes work, the branch can be merged back with the main branch.
 
-Some times you wan to talk about additional concepts beyond the high level goal that might help players accomplish the high level goal.
+In this Objective we will see how we can create a branch and rename it.
 
-```js
-const areCodeSamplesVeryHelpful = true;
-```
+<br>
 
-Describe the final values for your player one last time. Then ask them to click the _HACK_ button.
+

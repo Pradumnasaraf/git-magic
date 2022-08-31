@@ -1,21 +1,21 @@
 {
-  "title": "Example Objective",
-  "description": "This is what an <strong>objective description</strong> looks like!",
+  "title": "Git Magic: Git branch",
+  "description": "Learn about the <strong>Git branching</strong>!",
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
-      "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "placeholder": " Type your answer here",
+      "label": "Currently you're on the main branch, now you have to perform some test on a test branch. Use the command which creates and switch to <strong>test</strong>  branch at the same time"
     },
     {
       "name": "answer2",
       "type": "text",
-      "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "placeholder": " Type your answer here",
+      "label": "We are planning to move ftrom test to development. Rename the current brach to <strong>dev</strong>."
     }
   ],
   "rewards": {
-    "xp": 100
+    "xp": 200
   }
 }
